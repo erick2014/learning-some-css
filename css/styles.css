@@ -35,3 +35,7 @@ p ~ h2{
 input[type="text"],input[type="email"]{
 	border:none;
 }
+
+input[type="submit"],input[type="button"]{
+	font-size: 1em;
+}
