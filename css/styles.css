@@ -5,7 +5,7 @@ body{
 	background-image: url("../images/bg-body.jpg");
 }
 
-h1{ font-weight: bold;  }
+h1,h2,h3,h4{ font-weight: bold;  }
 
 #main{
 	background-color: white;
@@ -14,4 +14,8 @@ h1{ font-weight: bold;  }
 .button{
 	background-color: hotpink;
 	color:white;
+}
+
+blockquote p{
+	font-size: italic;
 }
