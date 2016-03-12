@@ -10,3 +10,8 @@ h1{ font-weight: bold;  }
 #main{
 	background-color: white;
 }
+
+.button{
+	background-color: hotpink;
+	color:white;
+}
