@@ -23,3 +23,7 @@ blockquote p{
 aside > h3{
 	color:green;
 }
+
+p+.offer{
+	color:red;
+}
