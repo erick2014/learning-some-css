@@ -27,3 +27,11 @@ aside > h3{
 p+.offer{
 	color:red;
 }
+
+p ~ h2{
+	color:purple;
+}
+
+input[type="text"],input[type="email"]{
+	border:none;
+}
