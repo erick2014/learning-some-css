@@ -19,3 +19,7 @@ h1,h2,h3,h4{ font-weight: bold;  }
 blockquote p{
 	font-size: italic;
 }
+
+aside > h3{
+	color:green;
+}
