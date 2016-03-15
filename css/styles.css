@@ -55,6 +55,11 @@ p ~ h2{
 	color:purple;
 }
 
+p:nth-child(1){
+	background-color: lightblue;
+}
+
+
 input[type="text"],input[type="email"]{
 	border:none;
 }
