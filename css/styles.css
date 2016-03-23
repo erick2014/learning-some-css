@@ -9,6 +9,14 @@ body{
 	font-size: 4em;
 }
 
+blockquote p:before { 
+    content: '\201C'; 
+} 
+
+blockquote p:after { 
+    content: '\201D'; 
+} 
+
 :disabled{
 	background-color: lightgray;
 }
