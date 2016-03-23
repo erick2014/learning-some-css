@@ -5,6 +5,10 @@ body{
 	background-image: url("../images/bg-body.jpg");
 }
 
+#content p:first-of-type:first-letter{
+	font-size: 4em;
+}
+
 :disabled{
 	background-color: lightgray;
 }
