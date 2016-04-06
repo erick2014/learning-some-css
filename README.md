@@ -1,2 +1,1 @@
-# learning-some-css
-learning-some-css
+LEARNING SOME CSS
