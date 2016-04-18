@@ -29,6 +29,8 @@ ul.nav,.jumbotron h1{
 
 .home-page{
   text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .home-page h2, .home-page h3{
@@ -59,3 +61,14 @@ ul.nav,.jumbotron h1{
   width:160px;
   margin-top:10px;
 }
+
+.home-page a:hover{
+  color:#e74c3c;
+  text-decoration: none;
+  opacity: .8;
+}
+
+#get-involved{
+  background-color: #f5f5f5;
+}
+
